@@ -3,3 +3,5 @@ This is a demo text file.
 Bad code.
 
 This code is added from master branch.
+
+This code is added from master1 branch.
