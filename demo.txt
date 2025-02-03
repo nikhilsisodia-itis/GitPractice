@@ -1,6 +1,1 @@
-This is a demo text file.
-
-Modifying the file from the master branch.
-
-This code is added from master branch.
-This code is added from master1 branch.
+New code added replacing all the previous code.
